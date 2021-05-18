@@ -1,14 +1,14 @@
 CorgiCoin Official Development Repo
 ==================================
 
-### What is CorgiCoin?
-[CorgiCoin] (abbreviated CORG), 
+### What is CorgiCash?
+[CorgiCash] (abbreviated CORG3), 
 
-Scrypt Proof of Stake 2.0
+Scrypt Proof of Stake 3.0
 VADE Official Development Repo
 
- ### What is CorgiCoin?	
-[CorgiCoin] (abbreviated CORG), A [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing proof-of-stake consensus as a security model, with a combined [proof-of-stake](https://en.wikipedia.org/wiki/Proof-of-stake)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Corgicoin is based on [Bitcoin](https://bitcoin.org), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+ ### What is CorgiCASH?	
+[CorgiCoin] (abbreviated CORG2), A [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing proof-of-stake consensus as a security model, with a combined [proof-of-stake](https://en.wikipedia.org/wiki/Proof-of-stake)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Corgicoin is based on [Bitcoin](https://bitcoin.org), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
  ### corgicoin Resources
 * Client and Source:
     * [Client Binaries](https://github.com/vashshawn/CorgicoinV2/releases)
